@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  B.S. Computer Science student at <strong>Cal Poly SLO</strong>, expected graduation <strong>June 2026</strong>
+  B.S. Computer Science student at <strong>Cal Poly SLO</strong>, graduated <strong>June 2026</strong>
 </p>
 
 ---
