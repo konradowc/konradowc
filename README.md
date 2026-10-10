@@ -86,7 +86,7 @@
     Working in a team of 5
   </li>
   <li>
-    September 2025 - Present
+    September 2025 - June 2026
   </li>
 
   <br/>
